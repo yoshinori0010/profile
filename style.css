@@ -1,3 +1,5 @@
 @charset "UTF-8";
-background-color: #3a3a3a;
+body{
+  background-color: #3a3a3a;
+}
 h1 {color:blue;}
